@@ -22,4 +22,4 @@ dateFormat = "2 January 2006"
     { twitter = "https://twitter.com/burufugu" },
     { mastodon = "https://masto.ai/@blowfish" },
     { github = "https://github.com/nunocoracao/blowfish" },
-  ]
+    ]
